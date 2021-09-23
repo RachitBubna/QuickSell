@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuickSell</string>
+    <string name="product_name">Product Name</string>
+    <string name="no_product_description">No product description</string>
+    <string name="_50">₹50</string>
+</resources>
